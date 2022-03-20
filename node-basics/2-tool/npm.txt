@@ -1,0 +1,6 @@
+npm init  初始化
+npm install xxx --save 安装指定包
+npm uninstall xxx --save 卸载指定包
+npm update 更新
+npm cache clean --force 清除缓存
+npm outdated ~2.0.0表示patch, ^2.0.0表示minor * 表示xx最新版本 package.json里面配置
