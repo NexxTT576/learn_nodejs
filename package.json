@@ -1,0 +1,25 @@
+{
+  "name": "learn_nodejs",
+  "version": "1.0.0",
+  "description": "学习nodejs+全栈",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metoo5566/learn_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metoo5566/learn_nodejs/issues"
+  },
+  "homepage": "https://github.com/metoo5566/learn_nodejs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "http-proxy-middleware": "^2.0.4",
+    "log4js": "^6.4.3"
+  }
+}
