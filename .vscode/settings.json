@@ -3,6 +3,9 @@
         "editor.maxTokenizationLineLength": 2500,
         "editor.formatOnSave": true
     },
+    "[javascriptreact]": {
+        "editor.formatOnSave": true
+    },
     "[html]": {
         "editor.formatOnSave": true
     },
