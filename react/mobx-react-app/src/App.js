@@ -1,4 +1,4 @@
-// import "./App.css";
+import "./App.css";
 import { observer } from "mobx-react-lite";
 import { useStore } from "./store/index";
 function App() {
